@@ -10,3 +10,4 @@ Projeto do Desafio Final de Git e GitHub.
 ## ⚙️ Como executar o projeto
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em qualquer navegador web.
+Projeto feito por Frank Eliel.
